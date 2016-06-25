@@ -3,7 +3,7 @@
 </head>
 <body>
 <scipt>
-var course= 2;
+var course == 2;
 if (course == 1)
 {
 document.write("Tableau");
